@@ -1,16 +1,13 @@
-## Hi there 👋
+### :male_detective: &nbsp;About Me
+I'm an aspiring malware analyst with a passion for cybersecurity and a keen interest in understanding the inner workings of malicious software. My journey into the world of malware analysis began with a fascination for how threats operate and a desire to protect systems from digital adversaries. My main areas of interest are reverse engineering x32 and x64 softwares using mostly IDA, Ghidra, OllyDbg and Wireshark.
 
-<!--
-**tomaszstopnicki/tomaszstopnicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***
+### :computer: &nbsp;My learnings projects:
+* [Practical Malware Analysis Exercises](https://github.com/tomaszstopnicki/practical-malware-analysis-writeups) - A collection of exercises and solutions based on the "Practical Malware Analysis" book. This repository is a great resource for anyone looking to improve their malware analysis skills.
+* [CTFs](https://github.com/tomaszstopnicki/tryhackme-ctf-writeups) - Regularly updated with Capture The Flag challenges I participate in. These CTFs help me stay sharp and up-to-date with the latest techniques in cybersecurity.
 
-Here are some ideas to get you started:
+***
+### :open_book: &nbsp;CTFs & Courses
+I have participated in multiple CTFs, completed various courses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [THM](https://tryhackme.com/p/doubtful) - CTFs & Courses
