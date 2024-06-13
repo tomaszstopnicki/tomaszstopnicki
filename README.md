@@ -5,7 +5,7 @@ My journey into the world of malware analysis began with a fascination for how t
 
 ***
 ### :computer: &nbsp;My learnings projects:
-* [Practical Malware Analysis Exercises](https://github.com/tomaszstopnicki/practical-malware-analysis-writeups) - A collection of exercises and solutions based on the "Practical Malware Analysis" book. This repository is a great resource for anyone looking to improve their malware analysis skills.
+* [Practical Malware Analysis Exercises](https://github.com/tomaszstopnicki/practical-malware-analysis-writeups) - A collection of exercises and solutions based on the "Practical Malware Analysis" book written by Michael Sikorski and Andrew Honig.
 * [CTFs](https://github.com/tomaszstopnicki/tryhackme-ctf-writeups) - Regularly updated with Capture The Flag challenges I participate in. These CTFs help me stay sharp and up-to-date with the latest techniques in cybersecurity.
 
 ***
