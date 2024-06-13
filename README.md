@@ -4,7 +4,7 @@ I'm an aspiring malware analyst with a passion for cybersecurity and a keen inte
 My journey into the world of malware analysis began with a fascination for how threats operate and a desire to protect systems from digital adversaries. My main areas of interest are reverse engineering x32 and x64 softwares using mostly **IDA**, **Ghidra**, **OllyDbg** and **Wireshark**.
 
 ***
-### :computer: &nbsp;My learnings projects:
+### :computer: &nbsp;My learning projects:
 * [Practical Malware Analysis Exercises](https://github.com/tomaszstopnicki/practical-malware-analysis-writeups) - A collection of exercises and solutions based on the "Practical Malware Analysis" book written by Michael Sikorski and Andrew Honig.
 * [CTFs](https://github.com/tomaszstopnicki/tryhackme-ctf-writeups) - Regularly updated with Capture The Flag challenges I participate in. These CTFs help me stay sharp and up-to-date with the latest techniques in cybersecurity.
 
