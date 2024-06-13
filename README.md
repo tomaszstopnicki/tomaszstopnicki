@@ -1,5 +1,5 @@
 ### :male_detective: &nbsp;About Me
-I'm an aspiring malware analyst with a passion for cybersecurity and a keen interest in understanding the inner workings of malicious software. My journey into the world of malware analysis began with a fascination for how threats operate and a desire to protect systems from digital adversaries. My main areas of interest are reverse engineering x32 and x64 softwares using mostly IDA, Ghidra, OllyDbg and Wireshark.
+I'm an aspiring malware analyst with a passion for cybersecurity and a keen interest in understanding the inner workings of malicious software. My journey into the world of malware analysis began with a fascination for how threats operate and a desire to protect systems from digital adversaries. My main areas of interest are reverse engineering x32 and x64 softwares using mostly **IDA**, **Ghidra**, **OllyDbg** and **Wireshark**.
 
 ***
 ### :computer: &nbsp;My learnings projects:
