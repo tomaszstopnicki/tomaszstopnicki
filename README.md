@@ -10,6 +10,6 @@ My journey into the world of malware analysis began with a fascination for how t
 
 ***
 ### :open_book: &nbsp;CTFs & Courses
-I have participated in multiple CTFs, completed various courses.
+I have participated in multiple CTFs.
 
 * [THM](https://tryhackme.com/p/doubtful) - CTFs & Courses
