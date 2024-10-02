@@ -11,6 +11,6 @@ My journey into the world of malware analysis began with a fascination for how t
 
 ***
 ### :open_book: &nbsp;CTFs & Courses
-I have participated in multiple CTFs.
+I have participated in multiple CTF rooms and courses focused at Windows Internals and Malware Analysis provided by TryHackMe.
 
 * [THM](https://tryhackme.com/p/doubtful) - CTFs & Courses
