@@ -6,7 +6,7 @@ My journey into the world of malware analysis began with a fascination for how t
 ***
 ### :computer: &nbsp;My learning projects:
 * HarvardX: CS50's Introduction to Computer Science - foundational programming concepts using C, emphasizing low-level programming and computer science principles.
-* [Practical Malware Analysis Exercises](https://github.com/tomaszstopnicki/practical-malware-analysis-writeups) - A collection of exercises and solutions based on the "Practical Malware Analysis" book written by Michael Sikorski and Andrew Honig.
+* [Practical Malware Analysis](https://github.com/tomaszstopnicki/practical-malware-analysis-writeups) - A collection of exercises and solutions based on the "Practical Malware Analysis" book written by Michael Sikorski and Andrew Honig.
 * [TryHackMe](https://tryhackme.com/r/p/doubtful) - Staying up-to-date with the latest techniques in cybersecurity.
 * [CRACKME's](https://github.com/tomaszstopnicki/crackme-s) - My documentation in form of writeups while reverse engineering CRACKME's.
 
